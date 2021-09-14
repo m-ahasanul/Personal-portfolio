@@ -52,7 +52,7 @@ header{
 /* home saction styling */
 
 .home{
-    background-image: url(../img/banner.jpg);
+    background-image: url(img/banner.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
